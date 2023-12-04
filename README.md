@@ -1,4 +1,6 @@
 # IMPLEMENTACIÓN DE UN ASISTENTE DE INTELIGENCIA ARTIFICIAL PARA BÚSQUEDAS WEB MEDIANTE MENSAJERÍA EN REDES SOCIALES
 Repositorio con código asociado al
-Proyecto de tesis de Josué Doménico Chicatti Avendaño.
+
+proyecto de tesis de Josué Doménico Chicatti Avendaño.
+
 Para obtener el título de INGENIERO EN MECATRÓNICA E INGENIERO EN COMPUTACIÓN.
