@@ -1,6 +1,6 @@
 # IMPLEMENTACIÓN DE UN ASISTENTE DE INTELIGENCIA ARTIFICIAL PARA BÚSQUEDAS WEB MEDIANTE MENSAJERÍA EN REDES SOCIALES
-Repositorio con código asociado al
+Utiliza el resultado, escribe al asistente por WhatsApp:
 
-proyecto de tesis de Josué Doménico Chicatti Avendaño.
++52 951 171 34 98
 
-Para obtener el título de INGENIERO EN MECATRÓNICA E INGENIERO EN COMPUTACIÓN.
+El repositorio con el codigo se hará público dentro de dos años.
